@@ -1,6 +1,12 @@
 React Video Player with Youtube API v3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setup
+
+In the project directory you have to install node modules, you can run :
+
+### `npm install`
+
+And then, you can test the project by run the code below
 
 ## Available Scripts
 
