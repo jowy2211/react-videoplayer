@@ -1,0 +1,4 @@
+.video-item {
+	display: flex !important;
+	cursor: pointer;
+}
