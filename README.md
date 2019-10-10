@@ -1,5 +1,7 @@
 React Video Player with Youtube API v3
 
+[take me live demo!](http://myvideo-player.surge.sh)
+
 ## Setup
 
 In the project directory you have to install node modules, you can run :
